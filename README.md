@@ -82,5 +82,3 @@ The analysis revealed that gender, passenger class, and age were significant fac
 ## References
 - [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 
-## Author
-[Your Name]
